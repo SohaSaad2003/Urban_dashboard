@@ -1,0 +1,5173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5994922,
+                    30.169909
+                ]
+            },
+            "properties": {
+                "@id": "node/4736356223",
+                "name": "مدرسة الدوار",
+                "name:ar": "مدرسة الدوار",
+                "name:en": NaN,
+                "amenity": "school",
+                "addr:city": NaN,
+                "addr:street": NaN
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5627986,
+                    30.1605118
+                ]
+            },
+            "properties": {
+                "@id": "node/5265581821",
+                "name": "المستقبل",
+                "name:ar": "المستقبل",
+                "name:en": "Future",
+                "amenity": "bus_station",
+                "addr:city": NaN,
+                "addr:street": NaN
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5533044,
+                    30.1636403
+                ]
+            },
+            "properties": {
+                "@id": "node/9750285595",
+                "name": "Dr. Hani Allawy Clinic",
+                "name:ar": NaN,
+                "name:en": NaN,
+                "amenity": "hospital",
+                "addr:city": "Future City, Cairo",
+                "addr:street": "28th U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6207748,
+                    30.1602223
+                ]
+            },
+            "properties": {
+                "@id": "node/10951837109",
+                "name": "بنك القاهرة",
+                "name:ar": NaN,
+                "name:en": NaN,
+                "amenity": "bank",
+                "addr:city": NaN,
+                "addr:street": NaN
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5932811,
+                    30.1730566
+                ]
+            },
+            "properties": {
+                "@id": "node/11097610806",
+                "name": "مطعم درويش الكبابجي",
+                "name:ar": NaN,
+                "name:en": NaN,
+                "amenity": "restaurant",
+                "addr:city": NaN,
+                "addr:street": NaN
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6400457,
+                    30.1567915
+                ]
+            },
+            "properties": {
+                "@id": "node/11335370954",
+                "name": "Falafel Palace - قصر الفلافل",
+                "name:ar": NaN,
+                "name:en": NaN,
+                "amenity": "restaurant",
+                "addr:city": NaN,
+                "addr:street": NaN
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6266648,
+                    30.1522433
+                ]
+            },
+            "properties": {
+                "@id": "node/12205946878",
+                "name": "Pizza Hut",
+                "name:ar": NaN,
+                "name:en": NaN,
+                "amenity": "restaurant",
+                "addr:city": NaN,
+                "addr:street": NaN
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6267694,
+                    30.1517332
+                ]
+            },
+            "properties": {
+                "@id": "node/12205946881",
+                "name": "Kaissar Clinic",
+                "name:ar": NaN,
+                "name:en": NaN,
+                "amenity": "hospital",
+                "addr:city": NaN,
+                "addr:street": NaN
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6267945,
+                    30.1515997
+                ]
+            },
+            "properties": {
+                "@id": "node/12205946883",
+                "name": "Alfa Labs",
+                "name:ar": "معمل ألفا",
+                "name:en": "Alfa Labs",
+                "amenity": "hospital",
+                "addr:city": NaN,
+                "addr:street": NaN
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.599492,
+                    30.169909
+                ]
+            },
+            "properties": {
+                "@id": "node/3687605424",
+                "name": "Madinaty Language School",
+                "name:ar": "Madinaty Language School",
+                "name:en": "Madinaty Language School",
+                "amenity": "School",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6012,
+                    30.1705
+                ]
+            },
+            "properties": {
+                "@id": "node/5844825099",
+                "name": "Madinaty Integrated Language Schools (MILS)",
+                "name:ar": "Madinaty Integrated Language Schools (MILS)",
+                "name:en": "Madinaty Integrated Language Schools (MILS)",
+                "amenity": "School",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.606944,
+                    30.118889
+                ]
+            },
+            "properties": {
+                "@id": "node/8317170280",
+                "name": "The British University in Egypt (BUE)",
+                "name:ar": "The British University in Egypt (BUE)",
+                "name:en": "The British University in Egypt (BUE)",
+                "amenity": "University",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.553304,
+                    30.16364
+                ]
+            },
+            "properties": {
+                "@id": "node/5816445777",
+                "name": "Madinaty Medical Center",
+                "name:ar": "Madinaty Medical Center",
+                "name:en": "Madinaty Medical Center",
+                "amenity": "Hospital",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6022,
+                    30.1167
+                ]
+            },
+            "properties": {
+                "@id": "node/6041805929",
+                "name": "Royal Hospital",
+                "name:ar": "Royal Hospital",
+                "name:en": "Royal Hospital",
+                "amenity": "Hospital",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.562799,
+                    30.160512
+                ]
+            },
+            "properties": {
+                "@id": "node/1075790535",
+                "name": "Seif Pharmacy",
+                "name:ar": "Seif Pharmacy",
+                "name:en": "Seif Pharmacy",
+                "amenity": "Pharmacy",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5901,
+                    30.1623
+                ]
+            },
+            "properties": {
+                "@id": "node/5337109118",
+                "name": "El Ezaby Pharmacy",
+                "name:ar": "El Ezaby Pharmacy",
+                "name:en": "El Ezaby Pharmacy",
+                "amenity": "Pharmacy",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.602,
+                    30.1756
+                ]
+            },
+            "properties": {
+                "@id": "node/8232045194",
+                "name": "Open Air Mall",
+                "name:ar": "Open Air Mall",
+                "name:en": "Open Air Mall",
+                "amenity": "Shopping Mall",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6031,
+                    30.1702
+                ]
+            },
+            "properties": {
+                "@id": "node/9209577389",
+                "name": "Arabesque Mini Mall",
+                "name:ar": "Arabesque Mini Mall",
+                "name:en": "Arabesque Mini Mall",
+                "amenity": "Shopping Mall",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5973,
+                    30.1674
+                ]
+            },
+            "properties": {
+                "@id": "node/1463068048",
+                "name": "Metro Market",
+                "name:ar": "Metro Market",
+                "name:en": "Metro Market",
+                "amenity": "Supermarket",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6008,
+                    30.1715
+                ]
+            },
+            "properties": {
+                "@id": "node/5634920346",
+                "name": "Carrefour",
+                "name:ar": "Carrefour",
+                "name:en": "Carrefour",
+                "amenity": "Supermarket",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5982,
+                    30.1743
+                ]
+            },
+            "properties": {
+                "@id": "node/5711868222",
+                "name": "Il Gusto",
+                "name:ar": "Il Gusto",
+                "name:en": "Il Gusto",
+                "amenity": "Restaurant",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5995,
+                    30.1751
+                ]
+            },
+            "properties": {
+                "@id": "node/3261447906",
+                "name": "Casper & Gambini's",
+                "name:ar": "Casper & Gambini's",
+                "name:en": "Casper & Gambini's",
+                "amenity": "Restaurant",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6017,
+                    30.1722
+                ]
+            },
+            "properties": {
+                "@id": "node/1484844992",
+                "name": "Desoky & Soda",
+                "name:ar": "Desoky & Soda",
+                "name:en": "Desoky & Soda",
+                "amenity": "Restaurant",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6028,
+                    30.1735
+                ]
+            },
+            "properties": {
+                "@id": "node/6177275649",
+                "name": "Starbucks",
+                "name:ar": "Starbucks",
+                "name:en": "Starbucks",
+                "amenity": "Cafe",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5942,
+                    30.1688
+                ]
+            },
+            "properties": {
+                "@id": "node/8954699407",
+                "name": "Central Park",
+                "name:ar": "Central Park",
+                "name:en": "Central Park",
+                "amenity": "Park",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6001,
+                    30.1729
+                ]
+            },
+            "properties": {
+                "@id": "node/7402644339",
+                "name": "Lake Park",
+                "name:ar": "Lake Park",
+                "name:en": "Lake Park",
+                "amenity": "Park",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5963,
+                    30.1657
+                ]
+            },
+            "properties": {
+                "@id": "node/6661173811",
+                "name": "CIB Bank",
+                "name:ar": "CIB Bank",
+                "name:en": "CIB Bank",
+                "amenity": "Bank",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5988,
+                    30.1692
+                ]
+            },
+            "properties": {
+                "@id": "node/4658182941",
+                "name": "Banque Misr",
+                "name:ar": "Banque Misr",
+                "name:en": "Banque Misr",
+                "amenity": "Bank",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.562799,
+                    30.160512
+                ]
+            },
+            "properties": {
+                "@id": "node/6325384820",
+                "name": "Madinaty Internal Bus Station",
+                "name:ar": "Madinaty Internal Bus Station",
+                "name:en": "Madinaty Internal Bus Station",
+                "amenity": "Bus Station",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5612,
+                    30.1598
+                ]
+            },
+            "properties": {
+                "@id": "node/9786186183",
+                "name": "Madinaty External Bus Station",
+                "name:ar": "Madinaty External Bus Station",
+                "name:en": "Madinaty External Bus Station",
+                "amenity": "Bus Station",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.605,
+                    30.1759
+                ]
+            },
+            "properties": {
+                "@id": "node/7404357849",
+                "name": "Madinaty Golf Club",
+                "name:ar": "Madinaty Golf Club",
+                "name:en": "Madinaty Golf Club",
+                "amenity": "Sports Facility",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6068,
+                    30.1765
+                ]
+            },
+            "properties": {
+                "@id": "node/2246013917",
+                "name": "Madinaty Equestrian Club",
+                "name:ar": "Madinaty Equestrian Club",
+                "name:en": "Madinaty Equestrian Club",
+                "amenity": "Sports Facility",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5996,
+                    30.1703
+                ]
+            },
+            "properties": {
+                "@id": "node/7705950003",
+                "name": "Madinaty Grand Mosque",
+                "name:ar": "Madinaty Grand Mosque",
+                "name:en": "Madinaty Grand Mosque",
+                "amenity": "Mosque",
+                "addr:city": "Madinaty",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6001,
+                    30.1698
+                ]
+            },
+            "properties": {
+                "@id": "node/8414934088",
+                "name": "مسجد الفاروق",
+                "name:ar": "مسجد الفاروق",
+                "name:en": "مسجد الفاروق",
+                "amenity": "mosque",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6012,
+                    30.1709
+                ]
+            },
+            "properties": {
+                "@id": "node/8504707406",
+                "name": "مسجد بلال",
+                "name:ar": "مسجد بلال",
+                "name:en": "مسجد بلال",
+                "amenity": "mosque",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6025,
+                    30.1715
+                ]
+            },
+            "properties": {
+                "@id": "node/4792341579",
+                "name": "مسجد الإسراء",
+                "name:ar": "مسجد الإسراء",
+                "name:en": "مسجد الإسراء",
+                "amenity": "mosque",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5993,
+                    30.1684
+                ]
+            },
+            "properties": {
+                "@id": "node/7583693447",
+                "name": "مسجد النور",
+                "name:ar": "مسجد النور",
+                "name:en": "مسجد النور",
+                "amenity": "mosque",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6037,
+                    30.1722
+                ]
+            },
+            "properties": {
+                "@id": "node/9936819710",
+                "name": "كنيسة السيدة العذراء",
+                "name:ar": "كنيسة السيدة العذراء",
+                "name:en": "كنيسة السيدة العذراء",
+                "amenity": "church",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6048,
+                    30.1733
+                ]
+            },
+            "properties": {
+                "@id": "node/2289531302",
+                "name": "كنيسة مارجرجس",
+                "name:ar": "كنيسة مارجرجس",
+                "name:en": "كنيسة مارجرجس",
+                "amenity": "church",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5982,
+                    30.1699
+                ]
+            },
+            "properties": {
+                "@id": "node/4954435801",
+                "name": "كنيسة القديس بولس",
+                "name:ar": "كنيسة القديس بولس",
+                "name:en": "كنيسة القديس بولس",
+                "amenity": "church",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6023,
+                    30.1705
+                ]
+            },
+            "properties": {
+                "@id": "node/9080754739",
+                "name": "مطعم الدهان",
+                "name:ar": "مطعم الدهان",
+                "name:en": "مطعم الدهان",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6031,
+                    30.1712
+                ]
+            },
+            "properties": {
+                "@id": "node/5662423696",
+                "name": "ماكدونالدز",
+                "name:ar": "ماكدونالدز",
+                "name:en": "ماكدونالدز",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6042,
+                    30.1725
+                ]
+            },
+            "properties": {
+                "@id": "node/7847468789",
+                "name": "كنتاكي",
+                "name:ar": "كنتاكي",
+                "name:en": "كنتاكي",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6017,
+                    30.1693
+                ]
+            },
+            "properties": {
+                "@id": "node/5131901435",
+                "name": "مطعم حضرموت",
+                "name:ar": "مطعم حضرموت",
+                "name:en": "مطعم حضرموت",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6005,
+                    30.1689
+                ]
+            },
+            "properties": {
+                "@id": "node/2911432829",
+                "name": "بيتزا هت",
+                "name:ar": "بيتزا هت",
+                "name:en": "بيتزا هت",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6054,
+                    30.1736
+                ]
+            },
+            "properties": {
+                "@id": "node/7524166340",
+                "name": "مطعم الدوار",
+                "name:ar": "مطعم الدوار",
+                "name:en": "مطعم الدوار",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6028,
+                    30.1708
+                ]
+            },
+            "properties": {
+                "@id": "node/3914770815",
+                "name": "مطعم البرج",
+                "name:ar": "مطعم البرج",
+                "name:en": "مطعم البرج",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6039,
+                    30.1719
+                ]
+            },
+            "properties": {
+                "@id": "node/4666799495",
+                "name": "تشيليز",
+                "name:ar": "تشيليز",
+                "name:en": "تشيليز",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.606,
+                    30.174
+                ]
+            },
+            "properties": {
+                "@id": "node/1008327801",
+                "name": "مطعم أبو السيد",
+                "name:ar": "مطعم أبو السيد",
+                "name:en": "مطعم أبو السيد",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6045,
+                    30.172
+                ]
+            },
+            "properties": {
+                "@id": "node/9590197764",
+                "name": "مطعم بلكونة",
+                "name:ar": "مطعم بلكونة",
+                "name:en": "مطعم بلكونة",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6029,
+                    30.1708
+                ]
+            },
+            "properties": {
+                "@id": "node/5236215737",
+                "name": "مطعم بوسبورس",
+                "name:ar": "مطعم بوسبورس",
+                "name:en": "مطعم بوسبورس",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6035,
+                    30.1715
+                ]
+            },
+            "properties": {
+                "@id": "node/7168805576",
+                "name": "مطعم ايادينا",
+                "name:ar": "مطعم ايادينا",
+                "name:en": "مطعم ايادينا",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.604,
+                    30.1721
+                ]
+            },
+            "properties": {
+                "@id": "node/8912506777",
+                "name": "مطعم بروكار",
+                "name:ar": "مطعم بروكار",
+                "name:en": "مطعم بروكار",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6018,
+                    30.1699
+                ]
+            },
+            "properties": {
+                "@id": "node/3117161076",
+                "name": "مطعم سيزلر",
+                "name:ar": "مطعم سيزلر",
+                "name:en": "مطعم سيزلر",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6006,
+                    30.1687
+                ]
+            },
+            "properties": {
+                "@id": "node/3962855387",
+                "name": "مطعم دسوقي وصودا",
+                "name:ar": "مطعم دسوقي وصودا",
+                "name:en": "مطعم دسوقي وصودا",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.605,
+                    30.1732
+                ]
+            },
+            "properties": {
+                "@id": "node/1330732819",
+                "name": "مطعم تمارا",
+                "name:ar": "مطعم تمارا",
+                "name:en": "مطعم تمارا",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6026,
+                    30.1706
+                ]
+            },
+            "properties": {
+                "@id": "node/5930639694",
+                "name": "مطعم زووبا",
+                "name:ar": "مطعم زووبا",
+                "name:en": "مطعم زووبا",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6062,
+                    30.1745
+                ]
+            },
+            "properties": {
+                "@id": "node/2566095229",
+                "name": "مطعم توم اند بصل",
+                "name:ar": "مطعم توم اند بصل",
+                "name:en": "مطعم توم اند بصل",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6047,
+                    30.1728
+                ]
+            },
+            "properties": {
+                "@id": "node/5988744600",
+                "name": "مطعم الحاتي",
+                "name:ar": "مطعم الحاتي",
+                "name:en": "مطعم الحاتي",
+                "amenity": "restaurant",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6045,
+                    30.171
+                ]
+            },
+            "properties": {
+                "@id": "node/5499880726",
+                "name": "سينما مدينتي",
+                "name:ar": "سينما مدينتي",
+                "name:en": "سينما مدينتي",
+                "amenity": "cinema",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6038,
+                    30.1705
+                ]
+            },
+            "properties": {
+                "@id": "node/9965718902",
+                "name": "كيدز إيريا",
+                "name:ar": "كيدز إيريا",
+                "name:en": "كيدز إيريا",
+                "amenity": "playground",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6056,
+                    30.1723
+                ]
+            },
+            "properties": {
+                "@id": "node/6638859403",
+                "name": "نادي مدينتي الرياضي",
+                "name:ar": "نادي مدينتي الرياضي",
+                "name:en": "نادي مدينتي الرياضي",
+                "amenity": "sports_club",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.606,
+                    30.173
+                ]
+            },
+            "properties": {
+                "@id": "node/6323333181",
+                "name": "حديقة العائلة",
+                "name:ar": "حديقة العائلة",
+                "name:en": "حديقة العائلة",
+                "amenity": "park",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6073,
+                    30.1742
+                ]
+            },
+            "properties": {
+                "@id": "node/4110484373",
+                "name": "منتزه الزهور",
+                "name:ar": "منتزه الزهور",
+                "name:en": "منتزه الزهور",
+                "amenity": "park",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6086,
+                    30.1755
+                ]
+            },
+            "properties": {
+                "@id": "node/6577710720",
+                "name": "حديقة البحيرة",
+                "name:ar": "حديقة البحيرة",
+                "name:en": "حديقة البحيرة",
+                "amenity": "park",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6099,
+                    30.1768
+                ]
+            },
+            "properties": {
+                "@id": "node/4215906537",
+                "name": "مدينتي كلوب هاوس",
+                "name:ar": "مدينتي كلوب هاوس",
+                "name:en": "مدينتي كلوب هاوس",
+                "amenity": "clubhouse",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6105,
+                    30.1775
+                ]
+            },
+            "properties": {
+                "@id": "node/6791205330",
+                "name": "مدينة الألعاب المائية",
+                "name:ar": "مدينة الألعاب المائية",
+                "name:en": "مدينة الألعاب المائية",
+                "amenity": "water_park",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6112,
+                    30.1782
+                ]
+            },
+            "properties": {
+                "@id": "node/4207058347",
+                "name": "ملعب كرة القدم مدينتي",
+                "name:ar": "ملعب كرة القدم مدينتي",
+                "name:en": "ملعب كرة القدم مدينتي",
+                "amenity": "stadium",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.612,
+                    30.179
+                ]
+            },
+            "properties": {
+                "@id": "node/3620028804",
+                "name": "مدينتي مول - منطقة الترفيه",
+                "name:ar": "مدينتي مول - منطقة الترفيه",
+                "name:en": "مدينتي مول - منطقة الترفيه",
+                "amenity": "shopping_mall",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6135,
+                    30.1801
+                ]
+            },
+            "properties": {
+                "@id": "node/7162488775",
+                "name": "مدينتي بولينج",
+                "name:ar": "مدينتي بولينج",
+                "name:en": "مدينتي بولينج",
+                "amenity": "bowling_alley",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6147,
+                    30.1812
+                ]
+            },
+            "properties": {
+                "@id": "node/9226628647",
+                "name": "مسرح مدينتي",
+                "name:ar": "مسرح مدينتي",
+                "name:en": "مسرح مدينتي",
+                "amenity": "theater",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6158,
+                    30.1823
+                ]
+            },
+            "properties": {
+                "@id": "node/5295709780",
+                "name": "ساحة النافورة الراقصة",
+                "name:ar": "ساحة النافورة الراقصة",
+                "name:en": "ساحة النافورة الراقصة",
+                "amenity": "fountain",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6169,
+                    30.1834
+                ]
+            },
+            "properties": {
+                "@id": "node/8460187223",
+                "name": "مدينة الملاهي مدينتي",
+                "name:ar": "مدينة الملاهي مدينتي",
+                "name:en": "مدينة الملاهي مدينتي",
+                "amenity": "amusement_park",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.618,
+                    30.1845
+                ]
+            },
+            "properties": {
+                "@id": "node/7571864792",
+                "name": "مركز ترفيه الأطفال",
+                "name:ar": "مركز ترفيه الأطفال",
+                "name:en": "مركز ترفيه الأطفال",
+                "amenity": "kids_center",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6191,
+                    30.1856
+                ]
+            },
+            "properties": {
+                "@id": "node/8006567980",
+                "name": "منتجع صحي ومسبح",
+                "name:ar": "منتجع صحي ومسبح",
+                "name:en": "منتجع صحي ومسبح",
+                "amenity": "spa",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6202,
+                    30.1867
+                ]
+            },
+            "properties": {
+                "@id": "node/9022370152",
+                "name": "منطقة ألعاب تسلق",
+                "name:ar": "منطقة ألعاب تسلق",
+                "name:en": "منطقة ألعاب تسلق",
+                "amenity": "adventure_park",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6213,
+                    30.1878
+                ]
+            },
+            "properties": {
+                "@id": "node/9607182411",
+                "name": "قاعة مدينتي للمناسبات",
+                "name:ar": "قاعة مدينتي للمناسبات",
+                "name:en": "قاعة مدينتي للمناسبات",
+                "amenity": "event_hall",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6224,
+                    30.1889
+                ]
+            },
+            "properties": {
+                "@id": "node/3063687967",
+                "name": "منتجع الجولف",
+                "name:ar": "منتجع الجولف",
+                "name:en": "منتجع الجولف",
+                "amenity": "golf_resort",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6235,
+                    30.19
+                ]
+            },
+            "properties": {
+                "@id": "node/7706923796",
+                "name": "حديقة الورود",
+                "name:ar": "حديقة الورود",
+                "name:en": "حديقة الورود",
+                "amenity": "park",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6246,
+                    30.1911
+                ]
+            },
+            "properties": {
+                "@id": "node/9331702866",
+                "name": "محطة أتوبيس مدينتي 1",
+                "name:ar": "محطة أتوبيس مدينتي 1",
+                "name:en": "محطة أتوبيس مدينتي 1",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6257,
+                    30.1922
+                ]
+            },
+            "properties": {
+                "@id": "node/5933466854",
+                "name": "محطة أتوبيس مدينتي 2",
+                "name:ar": "محطة أتوبيس مدينتي 2",
+                "name:en": "محطة أتوبيس مدينتي 2",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6268,
+                    30.1933
+                ]
+            },
+            "properties": {
+                "@id": "node/9152847494",
+                "name": "محطة أتوبيس مدينتي 3",
+                "name:ar": "محطة أتوبيس مدينتي 3",
+                "name:en": "محطة أتوبيس مدينتي 3",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6279,
+                    30.1944
+                ]
+            },
+            "properties": {
+                "@id": "node/8305482260",
+                "name": "محطة أتوبيس مدينتي 4",
+                "name:ar": "محطة أتوبيس مدينتي 4",
+                "name:en": "محطة أتوبيس مدينتي 4",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.629,
+                    30.1955
+                ]
+            },
+            "properties": {
+                "@id": "node/9212877991",
+                "name": "محطة أتوبيس مدينتي 5",
+                "name:ar": "محطة أتوبيس مدينتي 5",
+                "name:en": "محطة أتوبيس مدينتي 5",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6301,
+                    30.1966
+                ]
+            },
+            "properties": {
+                "@id": "node/2812991725",
+                "name": "محطة بنزين وطنية",
+                "name:ar": "محطة بنزين وطنية",
+                "name:en": "محطة بنزين وطنية",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6312,
+                    30.1977
+                ]
+            },
+            "properties": {
+                "@id": "node/6629456943",
+                "name": "محطة بنزين إمارات مصر",
+                "name:ar": "محطة بنزين إمارات مصر",
+                "name:en": "محطة بنزين إمارات مصر",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6323,
+                    30.1988
+                ]
+            },
+            "properties": {
+                "@id": "node/2616168051",
+                "name": "محطة بنزين مصر للبترول",
+                "name:ar": "محطة بنزين مصر للبترول",
+                "name:en": "محطة بنزين مصر للبترول",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6334,
+                    30.1999
+                ]
+            },
+            "properties": {
+                "@id": "node/1601356356",
+                "name": "محطة بنزين توتال",
+                "name:ar": "محطة بنزين توتال",
+                "name:en": "محطة بنزين توتال",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6345,
+                    30.2
+                ]
+            },
+            "properties": {
+                "@id": "node/7800498362",
+                "name": "محطة بنزين شل",
+                "name:ar": "محطة بنزين شل",
+                "name:en": "محطة بنزين شل",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6356,
+                    30.2011
+                ]
+            },
+            "properties": {
+                "@id": "node/7834855521",
+                "name": "موقف الباص المركزي مدينتي",
+                "name:ar": "موقف الباص المركزي مدينتي",
+                "name:en": "موقف الباص المركزي مدينتي",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6367,
+                    30.2022
+                ]
+            },
+            "properties": {
+                "@id": "node/4172943161",
+                "name": "موقف الباص - منطقة الخدمات",
+                "name:ar": "موقف الباص - منطقة الخدمات",
+                "name:en": "موقف الباص - منطقة الخدمات",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6378,
+                    30.2033
+                ]
+            },
+            "properties": {
+                "@id": "node/7983825021",
+                "name": "موقف الباص - مدخل مدينتي",
+                "name:ar": "موقف الباص - مدخل مدينتي",
+                "name:en": "موقف الباص - مدخل مدينتي",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6389,
+                    30.2044
+                ]
+            },
+            "properties": {
+                "@id": "node/8797381977",
+                "name": "موقف الباص - منطقة الفيلات",
+                "name:ar": "موقف الباص - منطقة الفيلات",
+                "name:en": "موقف الباص - منطقة الفيلات",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.64,
+                    30.2055
+                ]
+            },
+            "properties": {
+                "@id": "node/5485510705",
+                "name": "موقف الباص - منطقة العمارات",
+                "name:ar": "موقف الباص - منطقة العمارات",
+                "name:en": "موقف الباص - منطقة العمارات",
+                "amenity": "bus_station",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6411,
+                    30.2066
+                ]
+            },
+            "properties": {
+                "@id": "node/8064554738",
+                "name": "محطة بنزين التعاون",
+                "name:ar": "محطة بنزين التعاون",
+                "name:en": "محطة بنزين التعاون",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6422,
+                    30.2077
+                ]
+            },
+            "properties": {
+                "@id": "node/5731166017",
+                "name": "محطة بنزين موبيل",
+                "name:ar": "محطة بنزين موبيل",
+                "name:en": "محطة بنزين موبيل",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6433,
+                    30.2088
+                ]
+            },
+            "properties": {
+                "@id": "node/7902760227",
+                "name": "محطة بنزين كالتكس",
+                "name:ar": "محطة بنزين كالتكس",
+                "name:en": "محطة بنزين كالتكس",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6444,
+                    30.2099
+                ]
+            },
+            "properties": {
+                "@id": "node/8227654756",
+                "name": "محطة بنزين بي بي",
+                "name:ar": "محطة بنزين بي بي",
+                "name:en": "محطة بنزين بي بي",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6455,
+                    30.21
+                ]
+            },
+            "properties": {
+                "@id": "node/7028489707",
+                "name": "محطة بنزين أويل ليبيا",
+                "name:ar": "محطة بنزين أويل ليبيا",
+                "name:en": "محطة بنزين أويل ليبيا",
+                "amenity": "fuel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6466,
+                    30.2111
+                ]
+            },
+            "properties": {
+                "@id": "node/7993342426",
+                "name": "فندق مدينتي جراند",
+                "name:ar": "فندق مدينتي جراند",
+                "name:en": "فندق مدينتي جراند",
+                "amenity": "hotel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6477,
+                    30.2122
+                ]
+            },
+            "properties": {
+                "@id": "node/8249475397",
+                "name": "فندق مدينتي بلازا",
+                "name:ar": "فندق مدينتي بلازا",
+                "name:en": "فندق مدينتي بلازا",
+                "amenity": "hotel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6488,
+                    30.2133
+                ]
+            },
+            "properties": {
+                "@id": "node/1120657558",
+                "name": "فندق النخيل مدينتي",
+                "name:ar": "فندق النخيل مدينتي",
+                "name:en": "فندق النخيل مدينتي",
+                "amenity": "hotel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6499,
+                    30.2144
+                ]
+            },
+            "properties": {
+                "@id": "node/3144611864",
+                "name": "كمبوند مدينتي ريزيدنس",
+                "name:ar": "كمبوند مدينتي ريزيدنس",
+                "name:en": "كمبوند مدينتي ريزيدنس",
+                "amenity": "residential",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.651,
+                    30.2155
+                ]
+            },
+            "properties": {
+                "@id": "node/5731156217",
+                "name": "كمبوند جاردن فيو",
+                "name:ar": "كمبوند جاردن فيو",
+                "name:en": "كمبوند جاردن فيو",
+                "amenity": "residential",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6521,
+                    30.2166
+                ]
+            },
+            "properties": {
+                "@id": "node/1471559500",
+                "name": "كمبوند فيلات الزهور",
+                "name:ar": "كمبوند فيلات الزهور",
+                "name:en": "كمبوند فيلات الزهور",
+                "amenity": "residential",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6532,
+                    30.2177
+                ]
+            },
+            "properties": {
+                "@id": "node/4175586815",
+                "name": "مبنى الشقق الفندقية - مدينتي",
+                "name:ar": "مبنى الشقق الفندقية - مدينتي",
+                "name:en": "مبنى الشقق الفندقية - مدينتي",
+                "amenity": "apartment",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6543,
+                    30.2188
+                ]
+            },
+            "properties": {
+                "@id": "node/1702900918",
+                "name": "برج العمارات الفاخرة",
+                "name:ar": "برج العمارات الفاخرة",
+                "name:en": "برج العمارات الفاخرة",
+                "amenity": "apartment",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6554,
+                    30.2199
+                ]
+            },
+            "properties": {
+                "@id": "node/2125474680",
+                "name": "فيلا الريم الفاخرة",
+                "name:ar": "فيلا الريم الفاخرة",
+                "name:en": "فيلا الريم الفاخرة",
+                "amenity": "house",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6565,
+                    30.22
+                ]
+            },
+            "properties": {
+                "@id": "node/7220285820",
+                "name": "مجمع الفيلات الراقية",
+                "name:ar": "مجمع الفيلات الراقية",
+                "name:en": "مجمع الفيلات الراقية",
+                "amenity": "house",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6576,
+                    30.2211
+                ]
+            },
+            "properties": {
+                "@id": "node/2856654140",
+                "name": "فندق جراند مدينتي",
+                "name:ar": "فندق جراند مدينتي",
+                "name:en": "فندق جراند مدينتي",
+                "amenity": "hotel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6587,
+                    30.2222
+                ]
+            },
+            "properties": {
+                "@id": "node/1491582362",
+                "name": "فندق إليت مدينتي",
+                "name:ar": "فندق إليت مدينتي",
+                "name:en": "فندق إليت مدينتي",
+                "amenity": "hotel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6598,
+                    30.2233
+                ]
+            },
+            "properties": {
+                "@id": "node/1888099866",
+                "name": "فندق فينيسيا مدينتي",
+                "name:ar": "فندق فينيسيا مدينتي",
+                "name:en": "فندق فينيسيا مدينتي",
+                "amenity": "hotel",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6609,
+                    30.2244
+                ]
+            },
+            "properties": {
+                "@id": "node/2410100520",
+                "name": "كمبوند الياسمين ريزيدنس",
+                "name:ar": "كمبوند الياسمين ريزيدنس",
+                "name:en": "كمبوند الياسمين ريزيدنس",
+                "amenity": "residential",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.662,
+                    30.2255
+                ]
+            },
+            "properties": {
+                "@id": "node/7956511556",
+                "name": "كمبوند الزهراء فيو",
+                "name:ar": "كمبوند الزهراء فيو",
+                "name:en": "كمبوند الزهراء فيو",
+                "amenity": "residential",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6631,
+                    30.2266
+                ]
+            },
+            "properties": {
+                "@id": "node/2775484821",
+                "name": "كمبوند الفيلات الفاخرة",
+                "name:ar": "كمبوند الفيلات الفاخرة",
+                "name:en": "كمبوند الفيلات الفاخرة",
+                "amenity": "residential",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6642,
+                    30.2277
+                ]
+            },
+            "properties": {
+                "@id": "node/1405229821",
+                "name": "برج الشقق الحديثة",
+                "name:ar": "برج الشقق الحديثة",
+                "name:en": "برج الشقق الحديثة",
+                "amenity": "apartment",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6653,
+                    30.2288
+                ]
+            },
+            "properties": {
+                "@id": "node/2768937715",
+                "name": "مبنى الشقق العائلية",
+                "name:ar": "مبنى الشقق العائلية",
+                "name:en": "مبنى الشقق العائلية",
+                "amenity": "apartment",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6664,
+                    30.2299
+                ]
+            },
+            "properties": {
+                "@id": "node/6743923038",
+                "name": "فيلا الجوهرة",
+                "name:ar": "فيلا الجوهرة",
+                "name:en": "فيلا الجوهرة",
+                "amenity": "house",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6675,
+                    30.23
+                ]
+            },
+            "properties": {
+                "@id": "node/9131939158",
+                "name": "مجمع الفيلات الأوروبية",
+                "name:ar": "مجمع الفيلات الأوروبية",
+                "name:en": "مجمع الفيلات الأوروبية",
+                "amenity": "house",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6686,
+                    30.2311
+                ]
+            },
+            "properties": {
+                "@id": "node/6178970481",
+                "name": "مستشفى مدينتي العام",
+                "name:ar": "مستشفى مدينتي العام",
+                "name:en": "مستشفى مدينتي العام",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6697,
+                    30.2322
+                ]
+            },
+            "properties": {
+                "@id": "node/7459994604",
+                "name": "مستشفى السلام الدولي - مدينتي",
+                "name:ar": "مستشفى السلام الدولي - مدينتي",
+                "name:en": "مستشفى السلام الدولي - مدينتي",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6708,
+                    30.2333
+                ]
+            },
+            "properties": {
+                "@id": "node/6090038276",
+                "name": "مستشفى النخبة التخصصي",
+                "name:ar": "مستشفى النخبة التخصصي",
+                "name:en": "مستشفى النخبة التخصصي",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6719,
+                    30.2344
+                ]
+            },
+            "properties": {
+                "@id": "node/4332320406",
+                "name": "مركز مدينتي الطبي",
+                "name:ar": "مركز مدينتي الطبي",
+                "name:en": "مركز مدينتي الطبي",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.673,
+                    30.2355
+                ]
+            },
+            "properties": {
+                "@id": "node/7712538234",
+                "name": "عيادات مدينتي التخصصية",
+                "name:ar": "عيادات مدينتي التخصصية",
+                "name:en": "عيادات مدينتي التخصصية",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6741,
+                    30.2366
+                ]
+            },
+            "properties": {
+                "@id": "node/8319521112",
+                "name": "جولدز جيم مدينتي",
+                "name:ar": "جولدز جيم مدينتي",
+                "name:en": "جولدز جيم مدينتي",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6752,
+                    30.2377
+                ]
+            },
+            "properties": {
+                "@id": "node/5831870974",
+                "name": "فيتنس برو جيم",
+                "name:ar": "فيتنس برو جيم",
+                "name:en": "فيتنس برو جيم",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6763,
+                    30.2388
+                ]
+            },
+            "properties": {
+                "@id": "node/5099334511",
+                "name": "ماكس فيتنس كلوب",
+                "name:ar": "ماكس فيتنس كلوب",
+                "name:en": "ماكس فيتنس كلوب",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6774,
+                    30.2399
+                ]
+            },
+            "properties": {
+                "@id": "node/9995422708",
+                "name": "صيدلية العزبي",
+                "name:ar": "صيدلية العزبي",
+                "name:en": "صيدلية العزبي",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6785,
+                    30.24
+                ]
+            },
+            "properties": {
+                "@id": "node/3212214509",
+                "name": "صيدلية سيف",
+                "name:ar": "صيدلية سيف",
+                "name:en": "صيدلية سيف",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6796,
+                    30.2411
+                ]
+            },
+            "properties": {
+                "@id": "node/7451223857",
+                "name": "صيدلية رشدي",
+                "name:ar": "صيدلية رشدي",
+                "name:en": "صيدلية رشدي",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6807,
+                    30.2422
+                ]
+            },
+            "properties": {
+                "@id": "node/6613582862",
+                "name": "صيدلية د. علاء",
+                "name:ar": "صيدلية د. علاء",
+                "name:en": "صيدلية د. علاء",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6818,
+                    30.2433
+                ]
+            },
+            "properties": {
+                "@id": "node/4928654186",
+                "name": "مستشفى الفؤاد التخصصي",
+                "name:ar": "مستشفى الفؤاد التخصصي",
+                "name:en": "مستشفى الفؤاد التخصصي",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6829,
+                    30.2444
+                ]
+            },
+            "properties": {
+                "@id": "node/4030840502",
+                "name": "مستشفى الشروق - مدينتي",
+                "name:ar": "مستشفى الشروق - مدينتي",
+                "name:en": "مستشفى الشروق - مدينتي",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.684,
+                    30.2455
+                ]
+            },
+            "properties": {
+                "@id": "node/9976435842",
+                "name": "مستشفى الحياة الجديدة",
+                "name:ar": "مستشفى الحياة الجديدة",
+                "name:en": "مستشفى الحياة الجديدة",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6851,
+                    30.2466
+                ]
+            },
+            "properties": {
+                "@id": "node/7846280607",
+                "name": "مركز النور الطبي",
+                "name:ar": "مركز النور الطبي",
+                "name:en": "مركز النور الطبي",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6862,
+                    30.2477
+                ]
+            },
+            "properties": {
+                "@id": "node/1703408981",
+                "name": "مستشفى دار الشفاء",
+                "name:ar": "مستشفى دار الشفاء",
+                "name:en": "مستشفى دار الشفاء",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6873,
+                    30.2488
+                ]
+            },
+            "properties": {
+                "@id": "node/1999691571",
+                "name": "بلو جيم فتنس سنتر",
+                "name:ar": "بلو جيم فتنس سنتر",
+                "name:en": "بلو جيم فتنس سنتر",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6884,
+                    30.2499
+                ]
+            },
+            "properties": {
+                "@id": "node/4600415734",
+                "name": "باور هاوس جيم",
+                "name:ar": "باور هاوس جيم",
+                "name:en": "باور هاوس جيم",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6895,
+                    30.25
+                ]
+            },
+            "properties": {
+                "@id": "node/4736234721",
+                "name": "ايليت فيتنس كلوب",
+                "name:ar": "ايليت فيتنس كلوب",
+                "name:en": "ايليت فيتنس كلوب",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6906,
+                    30.2511
+                ]
+            },
+            "properties": {
+                "@id": "node/3369206755",
+                "name": "صيدلية د. رشا",
+                "name:ar": "صيدلية د. رشا",
+                "name:en": "صيدلية د. رشا",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6917,
+                    30.2522
+                ]
+            },
+            "properties": {
+                "@id": "node/3272897309",
+                "name": "صيدلية د. عمرو",
+                "name:ar": "صيدلية د. عمرو",
+                "name:en": "صيدلية د. عمرو",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6928,
+                    30.2533
+                ]
+            },
+            "properties": {
+                "@id": "node/8126136822",
+                "name": "صيدلية د. مريم",
+                "name:ar": "صيدلية د. مريم",
+                "name:en": "صيدلية د. مريم",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6939,
+                    30.2544
+                ]
+            },
+            "properties": {
+                "@id": "node/6943323036",
+                "name": "صيدلية د. خالد",
+                "name:ar": "صيدلية د. خالد",
+                "name:en": "صيدلية د. خالد",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.695,
+                    30.2555
+                ]
+            },
+            "properties": {
+                "@id": "node/7228601284",
+                "name": "مستشفى النور الإسلامي",
+                "name:ar": "مستشفى النور الإسلامي",
+                "name:en": "مستشفى النور الإسلامي",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6961,
+                    30.2566
+                ]
+            },
+            "properties": {
+                "@id": "node/8331695261",
+                "name": "مستشفى الرحمة التخصصي",
+                "name:ar": "مستشفى الرحمة التخصصي",
+                "name:en": "مستشفى الرحمة التخصصي",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6972,
+                    30.2577
+                ]
+            },
+            "properties": {
+                "@id": "node/4781367542",
+                "name": "مركز المستقبل الطبي",
+                "name:ar": "مركز المستقبل الطبي",
+                "name:en": "مركز المستقبل الطبي",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6983,
+                    30.2588
+                ]
+            },
+            "properties": {
+                "@id": "node/7021177870",
+                "name": "مستشفى الأمل",
+                "name:ar": "مستشفى الأمل",
+                "name:en": "مستشفى الأمل",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.6994,
+                    30.2599
+                ]
+            },
+            "properties": {
+                "@id": "node/2144795272",
+                "name": "عيادات الهلال",
+                "name:ar": "عيادات الهلال",
+                "name:en": "عيادات الهلال",
+                "amenity": "hospital",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7005,
+                    30.26
+                ]
+            },
+            "properties": {
+                "@id": "node/5426066572",
+                "name": "تكنو جيم مدينتي",
+                "name:ar": "تكنو جيم مدينتي",
+                "name:en": "تكنو جيم مدينتي",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7016,
+                    30.2611
+                ]
+            },
+            "properties": {
+                "@id": "node/1259579682",
+                "name": "سبورتس كلوب فيتنس",
+                "name:ar": "سبورتس كلوب فيتنس",
+                "name:en": "سبورتس كلوب فيتنس",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7027,
+                    30.2622
+                ]
+            },
+            "properties": {
+                "@id": "node/3265939230",
+                "name": "جولد فيت جيم",
+                "name:ar": "جولد فيت جيم",
+                "name:en": "جولد فيت جيم",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7038,
+                    30.2633
+                ]
+            },
+            "properties": {
+                "@id": "node/4230629116",
+                "name": "صيدلية د. ياسر",
+                "name:ar": "صيدلية د. ياسر",
+                "name:en": "صيدلية د. ياسر",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7049,
+                    30.2644
+                ]
+            },
+            "properties": {
+                "@id": "node/9918901673",
+                "name": "صيدلية المستقبل",
+                "name:ar": "صيدلية المستقبل",
+                "name:en": "صيدلية المستقبل",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.706,
+                    30.2655
+                ]
+            },
+            "properties": {
+                "@id": "node/1123802181",
+                "name": "صيدلية النصر",
+                "name:ar": "صيدلية النصر",
+                "name:en": "صيدلية النصر",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7071,
+                    30.2666
+                ]
+            },
+            "properties": {
+                "@id": "node/7467289632",
+                "name": "صيدلية الفرسان",
+                "name:ar": "صيدلية الفرسان",
+                "name:en": "صيدلية الفرسان",
+                "amenity": "pharmacy",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7082,
+                    30.2677
+                ]
+            },
+            "properties": {
+                "@id": "node/1023820264",
+                "name": "كارفور ماركت",
+                "name:ar": "كارفور ماركت",
+                "name:en": "كارفور ماركت",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7093,
+                    30.2688
+                ]
+            },
+            "properties": {
+                "@id": "node/7973801787",
+                "name": "مترو ماركت",
+                "name:ar": "مترو ماركت",
+                "name:en": "مترو ماركت",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7104,
+                    30.2699
+                ]
+            },
+            "properties": {
+                "@id": "node/5737535743",
+                "name": "خير زمان",
+                "name:ar": "خير زمان",
+                "name:en": "خير زمان",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7115,
+                    30.27
+                ]
+            },
+            "properties": {
+                "@id": "node/7268800464",
+                "name": "سبينس ماركت",
+                "name:ar": "سبينس ماركت",
+                "name:en": "سبينس ماركت",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7126,
+                    30.2711
+                ]
+            },
+            "properties": {
+                "@id": "node/3386632163",
+                "name": "سعودي ماركت",
+                "name:ar": "سعودي ماركت",
+                "name:en": "سعودي ماركت",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7137,
+                    30.2722
+                ]
+            },
+            "properties": {
+                "@id": "node/2700059624",
+                "name": "بيم ماركت",
+                "name:ar": "بيم ماركت",
+                "name:en": "بيم ماركت",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7148,
+                    30.2733
+                ]
+            },
+            "properties": {
+                "@id": "node/7883609586",
+                "name": "أولاد رجب",
+                "name:ar": "أولاد رجب",
+                "name:en": "أولاد رجب",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7159,
+                    30.2744
+                ]
+            },
+            "properties": {
+                "@id": "node/1949538150",
+                "name": "ماركت المدينة",
+                "name:ar": "ماركت المدينة",
+                "name:en": "ماركت المدينة",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.717,
+                    30.2755
+                ]
+            },
+            "properties": {
+                "@id": "node/9876571954",
+                "name": "محل زهرة مدينتي",
+                "name:ar": "محل زهرة مدينتي",
+                "name:en": "محل زهرة مدينتي",
+                "amenity": "shop",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7181,
+                    30.2766
+                ]
+            },
+            "properties": {
+                "@id": "node/9630602281",
+                "name": "محل البركة",
+                "name:ar": "محل البركة",
+                "name:en": "محل البركة",
+                "amenity": "shop",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7192,
+                    30.2777
+                ]
+            },
+            "properties": {
+                "@id": "node/5691924263",
+                "name": "محل الهدي للملابس",
+                "name:ar": "محل الهدي للملابس",
+                "name:en": "محل الهدي للملابس",
+                "amenity": "clothing",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7203,
+                    30.2788
+                ]
+            },
+            "properties": {
+                "@id": "node/2435885223",
+                "name": "محل الأحلام للأحذية",
+                "name:ar": "محل الأحلام للأحذية",
+                "name:en": "محل الأحلام للأحذية",
+                "amenity": "shoes",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7214,
+                    30.2799
+                ]
+            },
+            "properties": {
+                "@id": "node/5296654548",
+                "name": "محل الجوهرة للمجوهرات",
+                "name:ar": "محل الجوهرة للمجوهرات",
+                "name:en": "محل الجوهرة للمجوهرات",
+                "amenity": "jewelry",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7225,
+                    30.28
+                ]
+            },
+            "properties": {
+                "@id": "node/2659810566",
+                "name": "محل نسمات للورود",
+                "name:ar": "محل نسمات للورود",
+                "name:en": "محل نسمات للورود",
+                "amenity": "florist",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7236,
+                    30.2811
+                ]
+            },
+            "properties": {
+                "@id": "node/2383569807",
+                "name": "محل فريش فود للخضروات",
+                "name:ar": "محل فريش فود للخضروات",
+                "name:en": "محل فريش فود للخضروات",
+                "amenity": "grocery",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7247,
+                    30.2822
+                ]
+            },
+            "properties": {
+                "@id": "node/5969231253",
+                "name": "هايبر وان مدينتي",
+                "name:ar": "هايبر وان مدينتي",
+                "name:en": "هايبر وان مدينتي",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7258,
+                    30.2833
+                ]
+            },
+            "properties": {
+                "@id": "node/3138915484",
+                "name": "ميني ماركت المصريين",
+                "name:ar": "ميني ماركت المصريين",
+                "name:en": "ميني ماركت المصريين",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7269,
+                    30.2844
+                ]
+            },
+            "properties": {
+                "@id": "node/6821230316",
+                "name": "ماركت النور",
+                "name:ar": "ماركت النور",
+                "name:en": "ماركت النور",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.728,
+                    30.2855
+                ]
+            },
+            "properties": {
+                "@id": "node/4348719636",
+                "name": "ماركت الريان",
+                "name:ar": "ماركت الريان",
+                "name:en": "ماركت الريان",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7291,
+                    30.2866
+                ]
+            },
+            "properties": {
+                "@id": "node/2214154391",
+                "name": "محل الشروق للأجهزة الكهربائية",
+                "name:ar": "محل الشروق للأجهزة الكهربائية",
+                "name:en": "محل الشروق للأجهزة الكهربائية",
+                "amenity": "electronics",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7302,
+                    30.2877
+                ]
+            },
+            "properties": {
+                "@id": "node/6225975650",
+                "name": "محل الصفوة للملابس",
+                "name:ar": "محل الصفوة للملابس",
+                "name:en": "محل الصفوة للملابس",
+                "amenity": "clothing",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7313,
+                    30.2888
+                ]
+            },
+            "properties": {
+                "@id": "node/2528663589",
+                "name": "محل الطاووس للأحذية",
+                "name:ar": "محل الطاووس للأحذية",
+                "name:en": "محل الطاووس للأحذية",
+                "amenity": "shoes",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7324,
+                    30.2899
+                ]
+            },
+            "properties": {
+                "@id": "node/4722518879",
+                "name": "محل العطار للعطور",
+                "name:ar": "محل العطار للعطور",
+                "name:en": "محل العطار للعطور",
+                "amenity": "perfumery",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7335,
+                    30.29
+                ]
+            },
+            "properties": {
+                "@id": "node/1444743675",
+                "name": "محل النخبة للساعات",
+                "name:ar": "محل النخبة للساعات",
+                "name:en": "محل النخبة للساعات",
+                "amenity": "watch_store",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7346,
+                    30.2911
+                ]
+            },
+            "properties": {
+                "@id": "node/2828059072",
+                "name": "محل الأمانة للبقالة",
+                "name:ar": "محل الأمانة للبقالة",
+                "name:en": "محل الأمانة للبقالة",
+                "amenity": "grocery",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7357,
+                    30.2922
+                ]
+            },
+            "properties": {
+                "@id": "node/1970781949",
+                "name": "محل روز للورود",
+                "name:ar": "محل روز للورود",
+                "name:en": "محل روز للورود",
+                "amenity": "florist",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7368,
+                    30.2933
+                ]
+            },
+            "properties": {
+                "@id": "node/6481176203",
+                "name": "محل النور للذهب",
+                "name:ar": "محل النور للذهب",
+                "name:en": "محل النور للذهب",
+                "amenity": "jewelry",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7379,
+                    30.2944
+                ]
+            },
+            "properties": {
+                "@id": "node/1608684710",
+                "name": "محل البركة للأدوات المنزلية",
+                "name:ar": "محل البركة للأدوات المنزلية",
+                "name:en": "محل البركة للأدوات المنزلية",
+                "amenity": "household",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.739,
+                    30.2955
+                ]
+            },
+            "properties": {
+                "@id": "node/9678955887",
+                "name": "محل الحجاز للأثاث",
+                "name:ar": "محل الحجاز للأثاث",
+                "name:en": "محل الحجاز للأثاث",
+                "amenity": "furniture",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7401,
+                    30.2966
+                ]
+            },
+            "properties": {
+                "@id": "node/2334357017",
+                "name": "ماركت الأسرة",
+                "name:ar": "ماركت الأسرة",
+                "name:en": "ماركت الأسرة",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7412,
+                    30.2977
+                ]
+            },
+            "properties": {
+                "@id": "node/4839440509",
+                "name": "ماركت البركة",
+                "name:ar": "ماركت البركة",
+                "name:en": "ماركت البركة",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7423,
+                    30.2988
+                ]
+            },
+            "properties": {
+                "@id": "node/9089400761",
+                "name": "ماركت السعادة",
+                "name:ar": "ماركت السعادة",
+                "name:en": "ماركت السعادة",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7434,
+                    30.2999
+                ]
+            },
+            "properties": {
+                "@id": "node/8606923158",
+                "name": "ماركت المدينة المنورة",
+                "name:ar": "ماركت المدينة المنورة",
+                "name:en": "ماركت المدينة المنورة",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7445,
+                    30.3
+                ]
+            },
+            "properties": {
+                "@id": "node/3588083912",
+                "name": "ماركت الشروق",
+                "name:ar": "ماركت الشروق",
+                "name:en": "ماركت الشروق",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7456,
+                    30.3011
+                ]
+            },
+            "properties": {
+                "@id": "node/1125846793",
+                "name": "محل الأمل للإكسسوارات",
+                "name:ar": "محل الأمل للإكسسوارات",
+                "name:en": "محل الأمل للإكسسوارات",
+                "amenity": "accessories",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7467,
+                    30.3022
+                ]
+            },
+            "properties": {
+                "@id": "node/8725741014",
+                "name": "محل البرج للأجهزة المنزلية",
+                "name:ar": "محل البرج للأجهزة المنزلية",
+                "name:en": "محل البرج للأجهزة المنزلية",
+                "amenity": "electronics",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7478,
+                    30.3033
+                ]
+            },
+            "properties": {
+                "@id": "node/1141227114",
+                "name": "محل النجوم للملابس",
+                "name:ar": "محل النجوم للملابس",
+                "name:en": "محل النجوم للملابس",
+                "amenity": "clothing",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7489,
+                    30.3044
+                ]
+            },
+            "properties": {
+                "@id": "node/5919118305",
+                "name": "محل البستان للخضروات",
+                "name:ar": "محل البستان للخضروات",
+                "name:en": "محل البستان للخضروات",
+                "amenity": "grocery",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.75,
+                    30.3055
+                ]
+            },
+            "properties": {
+                "@id": "node/2412971535",
+                "name": "محل الورد الجميل",
+                "name:ar": "محل الورد الجميل",
+                "name:en": "محل الورد الجميل",
+                "amenity": "florist",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7511,
+                    30.3066
+                ]
+            },
+            "properties": {
+                "@id": "node/7689109222",
+                "name": "محل الأمان للمجوهرات",
+                "name:ar": "محل الأمان للمجوهرات",
+                "name:en": "محل الأمان للمجوهرات",
+                "amenity": "jewelry",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7522,
+                    30.3077
+                ]
+            },
+            "properties": {
+                "@id": "node/1853796055",
+                "name": "محل نور العين للنظارات",
+                "name:ar": "محل نور العين للنظارات",
+                "name:en": "محل نور العين للنظارات",
+                "amenity": "optician",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7533,
+                    30.3088
+                ]
+            },
+            "properties": {
+                "@id": "node/7999212398",
+                "name": "محل الهدى للأثاث",
+                "name:ar": "محل الهدى للأثاث",
+                "name:en": "محل الهدى للأثاث",
+                "amenity": "furniture",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7544,
+                    30.3099
+                ]
+            },
+            "properties": {
+                "@id": "node/5875594632",
+                "name": "محل الرضوان للأدوات المنزلية",
+                "name:ar": "محل الرضوان للأدوات المنزلية",
+                "name:en": "محل الرضوان للأدوات المنزلية",
+                "amenity": "household",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7555,
+                    30.31
+                ]
+            },
+            "properties": {
+                "@id": "node/4820996184",
+                "name": "محل الأصدقاء للساعات",
+                "name:ar": "محل الأصدقاء للساعات",
+                "name:en": "محل الأصدقاء للساعات",
+                "amenity": "watch_store",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7566,
+                    30.3111
+                ]
+            },
+            "properties": {
+                "@id": "node/6072488766",
+                "name": "ماركت الإيمان",
+                "name:ar": "ماركت الإيمان",
+                "name:en": "ماركت الإيمان",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7588,
+                    30.3133
+                ]
+            },
+            "properties": {
+                "@id": "node/3873056639",
+                "name": "ماركت الفتح",
+                "name:ar": "ماركت الفتح",
+                "name:en": "ماركت الفتح",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7599,
+                    30.3144
+                ]
+            },
+            "properties": {
+                "@id": "node/7020747178",
+                "name": "ماركت الصفوة",
+                "name:ar": "ماركت الصفوة",
+                "name:en": "ماركت الصفوة",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.761,
+                    30.3155
+                ]
+            },
+            "properties": {
+                "@id": "node/7392645078",
+                "name": "ماركت البسملة",
+                "name:ar": "ماركت البسملة",
+                "name:en": "ماركت البسملة",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7621,
+                    30.3166
+                ]
+            },
+            "properties": {
+                "@id": "node/7525170279",
+                "name": "محل بيت العيلة للمفروشات",
+                "name:ar": "محل بيت العيلة للمفروشات",
+                "name:en": "محل بيت العيلة للمفروشات",
+                "amenity": "furniture",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7632,
+                    30.3177
+                ]
+            },
+            "properties": {
+                "@id": "node/8310569452",
+                "name": "محل السلطان للأحذية",
+                "name:ar": "محل السلطان للأحذية",
+                "name:en": "محل السلطان للأحذية",
+                "amenity": "shoes",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7643,
+                    30.3188
+                ]
+            },
+            "properties": {
+                "@id": "node/4313260343",
+                "name": "محل المصريين للملابس",
+                "name:ar": "محل المصريين للملابس",
+                "name:en": "محل المصريين للملابس",
+                "amenity": "clothing",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7654,
+                    30.3199
+                ]
+            },
+            "properties": {
+                "@id": "node/8181427975",
+                "name": "محل الهدي للمجوهرات",
+                "name:ar": "محل الهدي للمجوهرات",
+                "name:en": "محل الهدي للمجوهرات",
+                "amenity": "jewelry",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7665,
+                    30.32
+                ]
+            },
+            "properties": {
+                "@id": "node/1174045876",
+                "name": "محل الياسمين للورود",
+                "name:ar": "محل الياسمين للورود",
+                "name:en": "محل الياسمين للورود",
+                "amenity": "florist",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7676,
+                    30.3211
+                ]
+            },
+            "properties": {
+                "@id": "node/2862181128",
+                "name": "محل الروضة للبقالة",
+                "name:ar": "محل الروضة للبقالة",
+                "name:en": "محل الروضة للبقالة",
+                "amenity": "grocery",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7687,
+                    30.3222
+                ]
+            },
+            "properties": {
+                "@id": "node/4786514523",
+                "name": "محل المدينة للإلكترونيات",
+                "name:ar": "محل المدينة للإلكترونيات",
+                "name:en": "محل المدينة للإلكترونيات",
+                "amenity": "electronics",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7698,
+                    30.3233
+                ]
+            },
+            "properties": {
+                "@id": "node/5125243175",
+                "name": "محل الأمل للساعات",
+                "name:ar": "محل الأمل للساعات",
+                "name:en": "محل الأمل للساعات",
+                "amenity": "watch_store",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7709,
+                    30.3244
+                ]
+            },
+            "properties": {
+                "@id": "node/6639049390",
+                "name": "محل الحرمين للأدوات المنزلية",
+                "name:ar": "محل الحرمين للأدوات المنزلية",
+                "name:en": "محل الحرمين للأدوات المنزلية",
+                "amenity": "household",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.772,
+                    30.3255
+                ]
+            },
+            "properties": {
+                "@id": "node/2561995926",
+                "name": "محل الفجر للعطور",
+                "name:ar": "محل الفجر للعطور",
+                "name:en": "محل الفجر للعطور",
+                "amenity": "perfumery",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7731,
+                    30.3266
+                ]
+            },
+            "properties": {
+                "@id": "node/4736599704",
+                "name": "ماركت السلام",
+                "name:ar": "ماركت السلام",
+                "name:en": "ماركت السلام",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7742,
+                    30.3277
+                ]
+            },
+            "properties": {
+                "@id": "node/2682287014",
+                "name": "ماركت الرحمن",
+                "name:ar": "ماركت الرحمن",
+                "name:en": "ماركت الرحمن",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7753,
+                    30.3288
+                ]
+            },
+            "properties": {
+                "@id": "node/9493435153",
+                "name": "ماركت دار المدينة",
+                "name:ar": "ماركت دار المدينة",
+                "name:en": "ماركت دار المدينة",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7764,
+                    30.3299
+                ]
+            },
+            "properties": {
+                "@id": "node/5644429646",
+                "name": "ماركت الرزق",
+                "name:ar": "ماركت الرزق",
+                "name:en": "ماركت الرزق",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7775,
+                    30.331
+                ]
+            },
+            "properties": {
+                "@id": "node/4832018032",
+                "name": "ماركت الهدي والنور",
+                "name:ar": "ماركت الهدي والنور",
+                "name:en": "ماركت الهدي والنور",
+                "amenity": "supermarket",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7786,
+                    30.3321
+                ]
+            },
+            "properties": {
+                "@id": "node/8138189412",
+                "name": "محل الأندلس للأحذية",
+                "name:ar": "محل الأندلس للأحذية",
+                "name:en": "محل الأندلس للأحذية",
+                "amenity": "shoes",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7797,
+                    30.3332
+                ]
+            },
+            "properties": {
+                "@id": "node/4683089565",
+                "name": "محل النجوم للنظارات",
+                "name:ar": "محل النجوم للنظارات",
+                "name:en": "محل النجوم للنظارات",
+                "amenity": "optician",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7808,
+                    30.3343
+                ]
+            },
+            "properties": {
+                "@id": "node/7362351029",
+                "name": "محل النور للهدايا",
+                "name:ar": "محل النور للهدايا",
+                "name:en": "محل النور للهدايا",
+                "amenity": "gift_shop",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7819,
+                    30.3354
+                ]
+            },
+            "properties": {
+                "@id": "node/9432337156",
+                "name": "محل البيان للمجوهرات",
+                "name:ar": "محل البيان للمجوهرات",
+                "name:en": "محل البيان للمجوهرات",
+                "amenity": "jewelry",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.783,
+                    30.3365
+                ]
+            },
+            "properties": {
+                "@id": "node/7571568091",
+                "name": "محل الزهور الجميلة",
+                "name:ar": "محل الزهور الجميلة",
+                "name:en": "محل الزهور الجميلة",
+                "amenity": "florist",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7841,
+                    30.3376
+                ]
+            },
+            "properties": {
+                "@id": "node/6184075482",
+                "name": "محل البيت الكبير للأثاث",
+                "name:ar": "محل البيت الكبير للأثاث",
+                "name:en": "محل البيت الكبير للأثاث",
+                "amenity": "furniture",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7852,
+                    30.3387
+                ]
+            },
+            "properties": {
+                "@id": "node/6196183260",
+                "name": "محل الأمل للملابس",
+                "name:ar": "محل الأمل للملابس",
+                "name:en": "محل الأمل للملابس",
+                "amenity": "clothing",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7863,
+                    30.3398
+                ]
+            },
+            "properties": {
+                "@id": "node/8986515714",
+                "name": "محل التميز للساعات",
+                "name:ar": "محل التميز للساعات",
+                "name:en": "محل التميز للساعات",
+                "amenity": "watch_store",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7874,
+                    30.3409
+                ]
+            },
+            "properties": {
+                "@id": "node/9847743546",
+                "name": "محل البركة للأجهزة المنزلية",
+                "name:ar": "محل البركة للأجهزة المنزلية",
+                "name:en": "محل البركة للأجهزة المنزلية",
+                "amenity": "electronics",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7885,
+                    30.342
+                ]
+            },
+            "properties": {
+                "@id": "node/6062294032",
+                "name": "محل الريان للعطور",
+                "name:ar": "محل الريان للعطور",
+                "name:en": "محل الريان للعطور",
+                "amenity": "perfumery",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7896,
+                    30.3431
+                ]
+            },
+            "properties": {
+                "@id": "node/5209881070",
+                "name": "مدرسة مدينتي الدولية",
+                "name:ar": "مدرسة مدينتي الدولية",
+                "name:en": "مدرسة مدينتي الدولية",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7907,
+                    30.3442
+                ]
+            },
+            "properties": {
+                "@id": "node/3374186080",
+                "name": "مدرسة مدينتي البريطانية",
+                "name:ar": "مدرسة مدينتي البريطانية",
+                "name:en": "مدرسة مدينتي البريطانية",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7918,
+                    30.3453
+                ]
+            },
+            "properties": {
+                "@id": "node/4536067411",
+                "name": "مدرسة الأمل الخاصة",
+                "name:ar": "مدرسة الأمل الخاصة",
+                "name:en": "مدرسة الأمل الخاصة",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7929,
+                    30.3464
+                ]
+            },
+            "properties": {
+                "@id": "node/5981410896",
+                "name": "مدرسة النيل الدولية",
+                "name:ar": "مدرسة النيل الدولية",
+                "name:en": "مدرسة النيل الدولية",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.794,
+                    30.3475
+                ]
+            },
+            "properties": {
+                "@id": "node/9820701593",
+                "name": "مدرسة الهدى الحديثة",
+                "name:ar": "مدرسة الهدى الحديثة",
+                "name:en": "مدرسة الهدى الحديثة",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7951,
+                    30.3486
+                ]
+            },
+            "properties": {
+                "@id": "node/3363352466",
+                "name": "حضانة المستقبل",
+                "name:ar": "حضانة المستقبل",
+                "name:en": "حضانة المستقبل",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7962,
+                    30.3497
+                ]
+            },
+            "properties": {
+                "@id": "node/4294325089",
+                "name": "حضانة الزهور",
+                "name:ar": "حضانة الزهور",
+                "name:en": "حضانة الزهور",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7973,
+                    30.3508
+                ]
+            },
+            "properties": {
+                "@id": "node/3275665784",
+                "name": "حضانة البراعم",
+                "name:ar": "حضانة البراعم",
+                "name:en": "حضانة البراعم",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.7984,
+                    30.3519
+                ]
+            },
+            "properties": {
+                "@id": "node/7843357824",
+                "name": "حضانة الأمل الصغير",
+                "name:ar": "حضانة الأمل الصغير",
+                "name:en": "حضانة الأمل الصغير",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8025,
+                    30.355
+                ]
+            },
+            "properties": {
+                "@id": "node/4434434123",
+                "name": "مدرسة مودرن سكول مدينتي",
+                "name:ar": "مدرسة مودرن سكول مدينتي",
+                "name:en": "مدرسة مودرن سكول مدينتي",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8036,
+                    30.3561
+                ]
+            },
+            "properties": {
+                "@id": "node/1343761258",
+                "name": "مدرسة النور للغات",
+                "name:ar": "مدرسة النور للغات",
+                "name:en": "مدرسة النور للغات",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8047,
+                    30.3572
+                ]
+            },
+            "properties": {
+                "@id": "node/4778557910",
+                "name": "مدرسة الإيمان الحديثة",
+                "name:ar": "مدرسة الإيمان الحديثة",
+                "name:en": "مدرسة الإيمان الحديثة",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8058,
+                    30.3583
+                ]
+            },
+            "properties": {
+                "@id": "node/1174195585",
+                "name": "مدرسة المستقبل التجريبية",
+                "name:ar": "مدرسة المستقبل التجريبية",
+                "name:en": "مدرسة المستقبل التجريبية",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8069,
+                    30.3594
+                ]
+            },
+            "properties": {
+                "@id": "node/7415975191",
+                "name": "مدرسة الفاروق الإسلامية",
+                "name:ar": "مدرسة الفاروق الإسلامية",
+                "name:en": "مدرسة الفاروق الإسلامية",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.808,
+                    30.3605
+                ]
+            },
+            "properties": {
+                "@id": "node/1673735462",
+                "name": "حضانة بيبي جاردن",
+                "name:ar": "حضانة بيبي جاردن",
+                "name:en": "حضانة بيبي جاردن",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8091,
+                    30.3616
+                ]
+            },
+            "properties": {
+                "@id": "node/6325170875",
+                "name": "حضانة كيدز تاون",
+                "name:ar": "حضانة كيدز تاون",
+                "name:en": "حضانة كيدز تاون",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8102,
+                    30.3627
+                ]
+            },
+            "properties": {
+                "@id": "node/5765164842",
+                "name": "حضانة سمارت كيدز",
+                "name:ar": "حضانة سمارت كيدز",
+                "name:en": "حضانة سمارت كيدز",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8113,
+                    30.3638
+                ]
+            },
+            "properties": {
+                "@id": "node/6112786363",
+                "name": "حضانة البراعم الذكية",
+                "name:ar": "حضانة البراعم الذكية",
+                "name:en": "حضانة البراعم الذكية",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8124,
+                    30.3649
+                ]
+            },
+            "properties": {
+                "@id": "node/2102082851",
+                "name": "حضانة النجوم الساطعة",
+                "name:ar": "حضانة النجوم الساطعة",
+                "name:en": "حضانة النجوم الساطعة",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.815,
+                    30.37
+                ]
+            },
+            "properties": {
+                "@id": "node/5403925094",
+                "name": "مدرسة جرين فالي الدولية",
+                "name:ar": "مدرسة جرين فالي الدولية",
+                "name:en": "مدرسة جرين فالي الدولية",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8161,
+                    30.3711
+                ]
+            },
+            "properties": {
+                "@id": "node/7055419905",
+                "name": "مدرسة الأفق الحديثة",
+                "name:ar": "مدرسة الأفق الحديثة",
+                "name:en": "مدرسة الأفق الحديثة",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8172,
+                    30.3722
+                ]
+            },
+            "properties": {
+                "@id": "node/9064732134",
+                "name": "مدرسة جيل المستقبل",
+                "name:ar": "مدرسة جيل المستقبل",
+                "name:en": "مدرسة جيل المستقبل",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8183,
+                    30.3733
+                ]
+            },
+            "properties": {
+                "@id": "node/7252818245",
+                "name": "مدرسة الشروق الخاصة",
+                "name:ar": "مدرسة الشروق الخاصة",
+                "name:en": "مدرسة الشروق الخاصة",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8194,
+                    30.3744
+                ]
+            },
+            "properties": {
+                "@id": "node/9857700919",
+                "name": "مدرسة الأورمان للغات",
+                "name:ar": "مدرسة الأورمان للغات",
+                "name:en": "مدرسة الأورمان للغات",
+                "amenity": "school",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8205,
+                    30.3755
+                ]
+            },
+            "properties": {
+                "@id": "node/3693455212",
+                "name": "حضانة برايت كيدز",
+                "name:ar": "حضانة برايت كيدز",
+                "name:en": "حضانة برايت كيدز",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8216,
+                    30.3766
+                ]
+            },
+            "properties": {
+                "@id": "node/6567417426",
+                "name": "حضانة سوبر كيدز",
+                "name:ar": "حضانة سوبر كيدز",
+                "name:en": "حضانة سوبر كيدز",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8227,
+                    30.3777
+                ]
+            },
+            "properties": {
+                "@id": "node/9479718430",
+                "name": "حضانة كرييتف مايندز",
+                "name:ar": "حضانة كرييتف مايندز",
+                "name:en": "حضانة كرييتف مايندز",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8238,
+                    30.3788
+                ]
+            },
+            "properties": {
+                "@id": "node/7803053057",
+                "name": "حضانة سباركل ستارز",
+                "name:ar": "حضانة سباركل ستارز",
+                "name:en": "حضانة سباركل ستارز",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8249,
+                    30.3799
+                ]
+            },
+            "properties": {
+                "@id": "node/6924657317",
+                "name": "حضانة ليتل ووندرز",
+                "name:ar": "حضانة ليتل ووندرز",
+                "name:en": "حضانة ليتل ووندرز",
+                "amenity": "kindergarten",
+                "addr:city": "مدينتي",
+                "addr:street": "Main Street"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8251,
+                    30.3801
+                ]
+            },
+            "properties": {
+                "@id": "node/1155520189",
+                "name": "مركز بيرلتز لتعليم اللغات",
+                "name:ar": "مركز بيرلتز لتعليم اللغات",
+                "name:en": "مركز بيرلتز لتعليم اللغات",
+                "amenity": "training_center",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8262,
+                    30.3812
+                ]
+            },
+            "properties": {
+                "@id": "node/8476248858",
+                "name": "معهد وول ستريت للإنجليزية",
+                "name:ar": "معهد وول ستريت للإنجليزية",
+                "name:en": "معهد وول ستريت للإنجليزية",
+                "amenity": "training_center",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8273,
+                    30.3823
+                ]
+            },
+            "properties": {
+                "@id": "node/8887900474",
+                "name": "مركز المستقبل للبرمجة",
+                "name:ar": "مركز المستقبل للبرمجة",
+                "name:en": "مركز المستقبل للبرمجة",
+                "amenity": "training_center",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8284,
+                    30.3834
+                ]
+            },
+            "properties": {
+                "@id": "node/5151447050",
+                "name": "مكتبة مدينتي العامة",
+                "name:ar": "مكتبة مدينتي العامة",
+                "name:en": "مكتبة مدينتي العامة",
+                "amenity": "library",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8295,
+                    30.3845
+                ]
+            },
+            "properties": {
+                "@id": "node/8039057267",
+                "name": "مكتبة دار المعرفة",
+                "name:ar": "مكتبة دار المعرفة",
+                "name:en": "مكتبة دار المعرفة",
+                "amenity": "library",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8306,
+                    30.3856
+                ]
+            },
+            "properties": {
+                "@id": "node/5821744788",
+                "name": "سنتر النجاح التعليمي",
+                "name:ar": "سنتر النجاح التعليمي",
+                "name:en": "سنتر النجاح التعليمي",
+                "amenity": "education_center",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8317,
+                    30.3867
+                ]
+            },
+            "properties": {
+                "@id": "node/4763424007",
+                "name": "معهد التفوق للدروس",
+                "name:ar": "معهد التفوق للدروس",
+                "name:en": "معهد التفوق للدروس",
+                "amenity": "education_center",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8328,
+                    30.3878
+                ]
+            },
+            "properties": {
+                "@id": "node/3077710844",
+                "name": "ملعب مدينتي الرياضي",
+                "name:ar": "ملعب مدينتي الرياضي",
+                "name:en": "ملعب مدينتي الرياضي",
+                "amenity": "sports_complex",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8339,
+                    30.3889
+                ]
+            },
+            "properties": {
+                "@id": "node/9249352784",
+                "name": "صالة فيتنس برو",
+                "name:ar": "صالة فيتنس برو",
+                "name:en": "صالة فيتنس برو",
+                "amenity": "gym",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8361,
+                    30.3911
+                ]
+            },
+            "properties": {
+                "@id": "node/4021781562",
+                "name": "مول مدينتي",
+                "name:ar": "مول مدينتي",
+                "name:en": "مول مدينتي",
+                "amenity": "shopping_mall",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8372,
+                    30.3922
+                ]
+            },
+            "properties": {
+                "@id": "node/7041132129",
+                "name": "متجر الإلكترونيات تك زون",
+                "name:ar": "متجر الإلكترونيات تك زون",
+                "name:en": "متجر الإلكترونيات تك زون",
+                "amenity": "electronics_store",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8383,
+                    30.3933
+                ]
+            },
+            "properties": {
+                "@id": "node/3068100638",
+                "name": "محل أزياء مودا ستايل",
+                "name:ar": "محل أزياء مودا ستايل",
+                "name:en": "محل أزياء مودا ستايل",
+                "amenity": "clothing_store",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8394,
+                    30.3944
+                ]
+            },
+            "properties": {
+                "@id": "node/1413027538",
+                "name": "مكتب بريد مدينتي",
+                "name:ar": "مكتب بريد مدينتي",
+                "name:en": "مكتب بريد مدينتي",
+                "amenity": "post_office",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8405,
+                    30.3955
+                ]
+            },
+            "properties": {
+                "@id": "node/3237375826",
+                "name": "فرع بنك مصر",
+                "name:ar": "فرع بنك مصر",
+                "name:en": "فرع بنك مصر",
+                "amenity": "bank",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.8416,
+                    30.3966
+                ]
+            },
+            "properties": {
+                "@id": "node/3880280086",
+                "name": "فرع البنك الأهلي",
+                "name:ar": "فرع البنك الأهلي",
+                "name:en": "فرع البنك الأهلي",
+                "amenity": "bank",
+                "addr:city": "مدينتي",
+                "addr:street": "شارع رئيسي"
+            }
+        }
+    ]
+}

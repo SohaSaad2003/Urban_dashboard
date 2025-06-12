@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% block title %}لوحة تحكم المدن{% endblock %}
+{% block content %}
+    <h1 class="my-4"><i class="fas fa-tachometer-alt me-2"></i>لوحة تحكم المدن</h1>
+
+    <div class="grid-container">
+        <div class="plot-card">
+            <h3><i class="fas fa-chart-pie me-2"></i>توزيع البيوت حسب المدن</h3>
+            {% if pie_data.data_values|length > 0 and pie_data.data_values|sum > 0 %}
+                <div class="alert alert-info" role="alert">
+                    البيانات موجودة: {{ pie_data.data_values }}
+                </div>
+                <div class="plot-container" id="pie-chart" style="width: 100%; height: 400px;"></div>
+                <button class="btn btn-outline-secondary export-btn" onclick="exportPlot('pie-chart', 'توزيع_البيوت_حسب_المدن')"><i class="fas fa-download me-2"></i>تصدير PNG</button>
+            {% else %}
+                <div class="alert alert-warning" role="alert">
+                    <i class="fas fa-exclamation-triangle me-2"></i>لا توجد بيانات سكنية لعرض هذا الرسم البياني
+                </div>
+            {% endif %}
+        </div>
+        <div class="plot-card">
+            <h3><i class="fas fa-chart-bar me-2"></i>إجمالي الخدمات لكل مدينة</h3>
+            {% if bar_data.data_values|length > 0 and bar_data.data_values|sum > 0 %}
+                <div class="alert alert-info" role="alert">
+                    البيانات موجودة: {{ bar_data.data_values }}
+                </div>
+                <div class="plot-container" id="bar-chart" style="width: 100%; height: 400px;"></div>
+                <button class="btn btn-outline-secondary export-btn" onclick="exportPlot('bar-chart', 'إجمالي_الخدمات_لكل_مدينة')"><i class="fas fa-download me-2"></i>تصدير PNG</button>
+            {% else %}
+                <div class="alert alert-warning" role="alert">
+                    <i class="fas fa-exclamation-triangle me-2"></i>لا توجد بيانات خدمات لعرض هذا الرسم البياني
+                </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <div class="row">
+        {% for city in cities_data %}
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">{{ city.name }}</h5>
+                        <p class="card-text">عدد البيوت: {{ city.total_homes }}</p>
+                        <p class="card-text">عدد الخدمات: {{ city.total_services }}</p>
+                        <a href="{{ url_for('city_details', city_name=city.name) }}" class="btn btn-primary">عرض التفاصيل</a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+    <script>
+        {% if pie_data.data_values|length > 0 and pie_data.data_values|sum > 0 %}
+            const pieData = {{ pie_data | tojson }};
+            console.log("Pie Data:", pieData);
+            drawPieChart('pie-chart', pieData);
+        {% else %}
+            console.log("No data for Pie Chart");
+        {% endif %}
+        {% if bar_data.data_values|length > 0 and bar_data.data_values|sum > 0 %}
+            const barData = {{ bar_data | tojson }};
+            console.log("Bar Data:", barData);
+            drawBarChart('bar-chart', barData);
+        {% else %}
+            console.log("No data for Bar Chart");
+        {% endif %}
+    </script>
+{% endblock %}

@@ -1,0 +1,142 @@
+{% extends "base.html" %}
+{% block title %}تحليل {{ city_name }}{% endblock %}
+{% block content %}
+<h1 class="my-4"><i class="fas fa-tachometer-alt me-2"></i>تحليل {{ city_name }}</h1>
+<a href="{{ url_for('index') }}" class="btn btn-secondary mb-3"><i class="fas fa-home me-2"></i>رجوع للرئيسية</a>
+
+<div class="row mb-4">
+    <div class="col-md-3">
+        <form method="GET" action="{{ url_for('city_details', city_name=city_name) }}">
+            <div class="mb-3">
+                <label for="service_type" class="form-label">نوع الخدمة</label>
+                <select name="service_type" id="service_type" class="form-select">
+                    {% for service in service_types %}
+                    <option value="{{ service }}" {% if service==selected_service %}selected{% endif %}>
+                        {{ service if service != 'all' else 'الكل' }}
+                    </option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="street" class="form-label">الشارع</label>
+                <select name="street" id="street" class="form-select" {% if streets|length <=1 %}disabled{% endif %}>
+                    {% for street in streets %}
+                    <option value="{{ street }}" {% if street==selected_street %}selected{% endif %}>
+                        {{ street if street != 'all' else 'الكل' }}
+                    </option>
+                    {% endfor %}
+                </select>
+                {% if streets|length <= 1 %} <small class="text-muted">لا توجد شوارع متاحة للاختيار</small>
+                    {% endif %}
+            </div>
+            <button type="submit" class="btn btn-primary"><i class="fas fa-filter me-2"></i>فلترة</button>
+        </form>
+    </div>
+    <div class="col-md-9">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card mb-3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">{{ card1_title }}</h5>
+                        <p class="card-text">{{ card1_value }}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-3">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">{{ card2_title }}</h5>
+                        <p class="card-text">{{ card2_value }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% if no_data %}
+<div class="alert alert-warning" role="alert">
+    <i class="fas fa-exclamation-triangle me-2"></i>لا توجد بيانات لعرض هذا الرسم البياني
+</div>
+{% else %}
+{% if no_homes %}
+<div class="alert alert-warning" role="alert">
+    <i class=></i>تم تطبيق الفلتر
+</div>
+{% endif %}
+
+<div class="grid-container">
+    <div class="plot-card">
+        <h3><i class="fas fa-chart-pie me-2"></i>توزيع الخدمات</h3>
+        <div class="plot-container" id="pie-chart"></div>
+        <button class="btn btn-outline-secondary export-btn"
+            onclick="exportPlot('pie-chart', 'توزيع_البيوت_والخدمات')"><i class="fas fa-download me-2"></i>تصدير
+            PNG</button>
+    </div>
+    <div class="plot-card">
+        <h3><i class="fas fa-chart-bar me-2"></i>توزيع أنواع الخدمات</h3>
+        <div class="plot-container" id="bar-chart"></div>
+        <button class="btn btn-outline-secondary export-btn" onclick="exportPlot('bar-chart', 'توزيع_أنواع_الخدمات')"><i
+                class="fas fa-download me-2"></i>تصدير PNG</button>
+    </div>
+    <div class="plot-card">
+        <h3><i class="fas fa-chart-area me-2"></i>أهم الشوارع</h3>
+        <div class="plot-container" id="area-chart"></div>
+        <button class="btn btn-outline-secondary export-btn" onclick="exportPlot('area-chart', 'أهم_الشوارع')"><i
+                class="fas fa-download me-2"></i>تصدير PNG</button>
+    </div>
+    <div class="plot-card">
+        <h3><i class="fas fa-map me-2"></i>خريطة الخدمات</h3>
+        {% if map_data %}
+        <div class="plot-container" id="map" style="height: 400px;"></div>
+        {% else %}
+        <div class="alert alert-warning" role="alert">
+            <i class="fas fa-exclamation-triangle me-2"></i>لا توجد بيانات هندسية صالحة لعرض الخريطة
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<button class="btn btn-info mb-3" onclick="toggleTable()"><i class="fas fa-list me-2"></i>إظهار/إخفاء تفاصيل
+    الخدمات</button>
+<div id="services-table" style="display: none;">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>الاسم (إنجليزي)</th>
+                <th>الاسم (عربي)</th>
+                <th>نوع الخدمة</th>
+                <th>الشارع</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for service in table_data %}
+            <tr>
+                <td>{{ service['name:en'] }}</td>
+                <td>{{ service['name:ar'] }}</td>
+                <td class="service-type">{{ service['amenity'] }}</td>
+                <td class="street-name">{{ service['addr:street'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endif %}
+
+<script>
+    const pieData = {{ pie_data | tojson | safe }};
+    const barData = {{ bar_data | tojson | safe }};
+    const areaData = {{ area_data | tojson | safe }};
+    const mapData = {{ map_data | tojson | safe }};
+    drawPieChart('pie-chart', pieData);
+    drawBarChart('bar-chart', barData);
+    drawAreaChart('area-chart', areaData);
+    if (mapData && mapData.length > 0) {
+        drawMap('map', mapData);
+    }
+    function toggleTable() {
+        const table = document.getElementById('services-table');
+        table.style.display = table.style.display === 'none' ? 'block' : 'none';
+    }
+</script>
+{% endblock %}

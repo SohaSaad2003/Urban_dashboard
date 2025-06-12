@@ -1,0 +1,280 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(135deg, #041429 0%, #0a2744 50%, #041429 100%);
+    min-height: 100vh;
+    line-height: 1.6;
+    color: #404040; /* تغيير لون النص ليكون أغمق (#404040 بدل #d0d0d0) */
+    position: relative;
+    overflow-x: hidden;
+}
+
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    opacity: 0.3;
+    z-index: -1;
+    animation: subtlePulse 10s ease-in-out infinite;
+}
+
+/* Futuristic Background Effect */
+body::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: 
+        radial-gradient(circle at 50% 50%, rgba(0, 255, 255, 0.1) 0%, transparent 50%),
+        linear-gradient(45deg, rgba(0, 119, 255, 0.05) 25%, transparent 25%),
+        linear-gradient(-45deg, rgba(0, 255, 255, 0.05) 25%, transparent 25%);
+    background-size: 100% 100%, 20px 20px, 20px 20px;
+    animation: backgroundPulse 8s ease-in-out infinite;
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Headings */
+h1, h3 {
+    font-family: 'Playfair Display', serif;
+    background: linear-gradient(120deg, #00ffff, #0077ff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 1rem;
+    text-shadow: 0 0 10px rgba(0, 255, 255, 0.3);
+}
+
+/* Plot Card */
+.plot-card {
+    background: linear-gradient(135deg,
+        rgba(4, 20, 41, 0.8),
+        rgba(10, 39, 68, 0.8));
+    border-radius: 20px;
+    padding: 2rem;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 30px rgba(0, 255, 255, 0.1);
+    border: 1px solid rgba(0, 255, 255, 0.1);
+    margin-bottom: 2rem;
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+    color: #333333;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.plot-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0 30px rgba(0, 255, 255, 0.2);
+}
+
+.plot-card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+        45deg,
+        transparent,
+        rgba(0, 255, 255, 0.1),
+        transparent
+    );
+    transform: translateX(-100%);
+    transition: transform 0.5s ease-in-out;
+}
+
+.plot-card:hover::before {
+    transform: translateX(50%);
+}
+
+/* Plot Container */
+.plot-container {
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+
+/* City Card */
+.city-card {
+    transition: transform 0.3s ease;
+}
+
+.city-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);
+}
+
+/* Grid Container */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2rem;
+    padding: 0 1rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* Buttons */
+.btn-primary {
+    background: linear-gradient(90deg, 
+        rgba(0, 255, 255, 0.1), 
+        rgba(0, 119, 255, 0.1));
+    border: 1px solid rgba(0, 255, 255, 0.2);
+    color: #00ffff;
+    padding: 0.8rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 1.1rem;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+    text-shadow: 0 0 2px rgba(0, 255, 255, 0.2);
+}
+
+.btn-primary::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #00ffff, transparent);
+    transform: translateX(-50%);
+    transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-primary:hover::after {
+    width: 80%;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, 
+        rgba(0, 255, 255, 0.2), 
+        rgba(0, 119, 255, 0.2));
+    color: #ffffff;
+    text-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+    box-shadow: 
+        0 0 20px rgba(0, 255, 255, 0.2),
+        inset 0 0 20px rgba(0, 255, 255, 0.1);
+}
+
+/* Export Button */
+.export-btn {
+    margin-top: 1rem;
+}
+
+/* Animations */
+@keyframes subtlePulse {
+    0%, 100% { transform: scale(1); opacity: 0.3; }
+    50% { transform: scale(1.05); opacity: 0.4; }
+}
+
+@keyframes backgroundPulse {
+    0%, 100% {
+        opacity: 0.5;
+        transform: scale(1);
+    }
+    50% {
+        opacity: 0.7;
+        transform: scale(1.05);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .plot-card {
+        padding: 1.5rem;
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h3 {
+        font-size: 1.5rem;
+    }
+    
+    .btn-primary {
+        font-size: 1rem;
+        padding: 0.6rem 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .plot-card {
+        padding: 1rem;
+    }
+    
+    h1 {
+        font-size: 1.8rem;
+    }
+    
+    h3 {
+        font-size: 1.3rem;
+    }
+    
+    .btn-primary {
+        font-size: 0.9rem;
+        padding: 0.5rem 1rem;
+    }
+}
+
+
+/* ===================== */
+/* Custom Styling Added: */
+/* ===================== */
+
+.service-type {
+    color: #00bcd4 !important;  /* لون سماوي */
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.street-name {
+    color: #007bff !important;  /* لون أزرق */
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+/* Table Header Styling */
+.table thead th {
+    color: #00ffff !important;  /* Cyan color to match the theme */
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-shadow: 0 0 5px rgba(0, 255, 255, 0.3);
+    border-bottom: 2px solid rgba(0, 255, 255, 0.2);
+    background: linear-gradient(135deg, rgba(4, 20, 41, 0.9), rgba(10, 39, 68, 0.9));
+}
+
+/* Specific styling for service type and street headers */
+.table thead th:nth-child(3),  /* Service Type column */
+.table thead th:nth-child(4) { /* Street column */
+    color: #00ffff !important;
+    font-weight: bold;
+    font-size: 1.1rem;
+    text-shadow: 0 0 5px rgba(0, 255, 255, 0.3);
+}
+
+/* Table Row Hover Effect */
+.table tbody tr:hover {
+    background-color: rgba(0, 255, 255, 0.05);
+    transition: background-color 0.3s ease;
+}
